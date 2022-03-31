@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, my name is David (Da-veed), not David (Day-vid).
+How to reach me:
+| 📧 mcdxwell@gmail.com | ☁ [Davz.dev](https://www.davz.dev) | 🦜 [Twitter](https://twitter.com/mcdxwell) | 🌐 [Linkedin](https://www.linkedin.com/in/mcdxwell/) |
+|-|-|-|-|
+
 
 <!--
 **mcdxwell/mcdxwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is David (Da-veed), not David (Day-vid). I don't subscribe to labels, but one could say I'm an aspiring software developer or software engineer. Breaking down problems and creating elegant solutions is what I love to do.
+
